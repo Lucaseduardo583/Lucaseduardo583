@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## LucasEduardo583/README.md
+## LucasEduardo9/README.md
 
 ![LucasEduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasEduardo&show_icons=true&theme=tokyonight)
 
@@ -17,6 +17,9 @@
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucasEduardo&theme=react-dark)
 
+### 👨‍💻 Sobre Mim
+Sou técnico de TI especializado em **hardware, redes e programação full-stack (front-end e back-end)**. Tenho experiência com desenvolvimento web, bancos de dados e soluções tecnológicas voltadas para eficiência e desempenho.
+
 ### 🌎 Social Links
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaseduardo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaseduardo/)
@@ -32,4 +35,5 @@
 
 ---
 📝 **Customize este README substituindo 'LucasEduardo' pelo seu usuário do GitHub e os links sociais pelos seus próprios!**
+
 
