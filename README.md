@@ -1,25 +1,6 @@
 ## Hi there 👋
 
 ## LucasEduardo9/README.md
-
-![LucasEduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasEduardo&show_icons=true&theme=tokyonight)
-
-### 📊 LucasEduardo's GitHub Stats
-- ⭐ **Total Stars Earned:** 0
-- 🔄 **Total Commits:** 135
-- 🔀 **Total PRs:** 0
-- ❌ **Total Issues:** 0
-- 🌱 **Contributed to (last year):** 0
-
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardo&layout=compact&theme=tokyonight)
-
-### 👨‍💻 Sobre Mim
-Sou técnico de TI especializado em **hardware, redes e programação full-stack (front-end e back-end)**. Tenho experiência com desenvolvimento web, bancos de dados e soluções tecnológicas voltadas para eficiência e desempenho.
-
-### 🌎 Social Links
-<h1 align="left">Bem-vindo ao meu perfil! 🚀</h1>
-
 ###
 
 <div align="left">
