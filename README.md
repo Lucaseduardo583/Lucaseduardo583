@@ -14,9 +14,6 @@
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardo&layout=compact&theme=tokyonight)
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucasEduardo&theme=react-dark)
-
 ### 👨‍💻 Sobre Mim
 Sou técnico de TI especializado em **hardware, redes e programação full-stack (front-end e back-end)**. Tenho experiência com desenvolvimento web, bancos de dados e soluções tecnológicas voltadas para eficiência e desempenho.
 
