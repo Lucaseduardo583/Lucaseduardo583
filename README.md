@@ -41,4 +41,13 @@
 
 ---
 
+### 📜 Certificados:
+
+- [Lógica de Programação - Curso em Vídeo](https://drive.google.com/link-do-certificado)
+- [Introdução à Cibersegurança - Cisco Networking Academy](https://www.netacad.com/link-certificado)
+- [Git e GitHub - DIO](https://web.dio.me/certificate/link-certificado)
+- [Redes de Computadores - Fundação Bradesco](https://www.ev.org.br/link-certificado)
+
+---
+
 **"A jornada é longa, mas o foco e a vontade de aprender me fazem seguir em frente."**
