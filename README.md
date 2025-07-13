@@ -1,8 +1,8 @@
 ## 👨‍💻 Lucas Eduardo 🔐🛡️🚀
 
-🎓 Estudante de Cibersegurança na FATEC  
-💻 Aprendendo desenvolvimento Full-Stack, redes e hardware  
-📚 Focado em crescer como desenvolvedor e profissional de TI  
+🎓 Estudante de Segurança da Informação na FATEC  
+💻 Tenho conhecimentos básicos em desenvolvimento Full-Stack, redes e hardware  
+📚 Atualmente focado em aprender Segurança da Informação e crescer como profissional de TI
 
 ---
 
