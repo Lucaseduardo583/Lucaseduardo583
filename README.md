@@ -56,14 +56,6 @@ Durante minha formação técnica, tive contato com:
 
 ---
 
-## 📊 GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucaseduardo583&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaseduardo583&layout=compact&theme=tokyonight" height="165" />
-</div>
-
----
 
 ## 🚀 Sobre mim
 
